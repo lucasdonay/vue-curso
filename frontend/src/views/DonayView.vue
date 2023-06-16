@@ -1,15 +1,12 @@
 <template>
-  <div class="about">
-    <h1>DonayView</h1>
-  </div>
+  <h1 id="app-products">Products</h1>
 </template>
 
 <style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
+#app-products {
+  color: red;
 }
 </style>
+<script>
+alert('ola donay')
+</script>
